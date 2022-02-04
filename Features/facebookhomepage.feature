@@ -1,4 +1,4 @@
-Feature: facebook home page validation
+ Feature: facebook home page validation
 
 Scenario: validate fb home page
 
